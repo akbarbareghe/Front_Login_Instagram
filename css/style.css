@@ -1,3 +1,27 @@
 @import url(general.css);
 @import url(../font/fontawesome-free-6.2.0-web/css/all.css);
 
+.container_inputs{
+    width: 100%;
+    height: 450px;
+    background-color: blueviolet;
+}
+
+.sign_up{
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+}
+
+.get_the_app{
+    width: 100%;
+    height: 200px;
+    background-color: burlywood;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: cadetblue;
+}
+
